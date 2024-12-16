@@ -1,4 +1,4 @@
-## Squats/Lunges
+[//]: ## Squats/Lunges
 
 **Front Squat (ATG, no belt, paused)**
 4x130; 5x123.5; 8x105
