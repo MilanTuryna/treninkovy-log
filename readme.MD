@@ -1,6 +1,6 @@
 ## Squats/Lunges
 
-**Back Squat (ATG, belt) **
+**Back Squat (ATG, belt)**
 1x200; 5x185; 9x170; 10x165; 13x152.5; 20x145; 25x125;
 
 **Front Squat (ATG, no belt, paused)**
