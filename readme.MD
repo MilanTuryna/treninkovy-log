@@ -1,4 +1,4 @@
-## Squats
+## Squats/Lunges
 
 **Front Squat (ATG, no belt, paused)**
 4x130; 5x123.5; 8x105
@@ -9,7 +9,7 @@
 **SSB squat (ATG, belt)**
 6x150; 8x142.5
 
-### Hinge/pulls
+## Hinge/pulls
 
 **RDL (no belt)** 4x190, 6x180
 
@@ -19,7 +19,7 @@
 
 **SSB Good Mornings (belt)** 15x90
 
-### Bench/Dips
+## Bench/Dips
 
 **Benchpress (close-grip, touch-n-go)
 6x110; 8x105**
@@ -31,7 +31,7 @@
 **Weighted Dips**
 7x50; 9+1x47.5; 10x45
 
-### OHP / Shoulder Presses
+## OHP / Shoulder Presses
 
 **Military Press (paused, inch wider)** 3x85; 5x80; 6x78.5; 8x75
 
@@ -44,12 +44,12 @@
 
 **Cable pullover 1-arm** 10x21.5
 
-### Rows
+## Rows
 All kind of rows
 
 **DB rows** 60-70kg db for reps
 
-### Curls
+## Curls
 
 **Axle curls**
 4x54; 8x50; 10x44
@@ -57,7 +57,7 @@ All kind of rows
 **Reverse barbell curls (ultrastrict)** 5x40; 8x38.5
 
 
-### Triceps
+## Triceps
 
 **Triceps pushdown (1-arm, across-body)**
 6x20.5
@@ -68,21 +68,21 @@ All kind of rows
 **Rolling DB extensions (decline, paused)**
 8x25.5
 
-### Abs
+## Abs
 
 **Leg raises** 26x
 
 **Cable crunches**
 
-### Legs acc.
+## Legs acc.
 
 **Nordic curls**
 
-### Grip
+## Grip
 
 **DOH holds**
 
 **Gripper (Heavy-grips)** 23x150lbs; 1x200lbs;
 
-### Wrist
+## Wrist
 
