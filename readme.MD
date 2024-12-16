@@ -1,5 +1,8 @@
 ## Squats/Lunges
 
+**Back Squat (ATG, belt) **
+1x200; 5x185; 9x170; 10x165; 13x152.5; 20x145; 25x125;
+
 **Front Squat (ATG, no belt, paused)**
 4x130; 5x123.5; 8x105
 
@@ -11,9 +14,11 @@
 
 ## Hinge/pulls
 
+**Deadlift (deadstop, belt)** 1x220, 7x210, 8x200, 10x190, 12x180, 20x150 
+
 **RDL (no belt)** 4x190, 6x180
 
-**RDL (no belt)** 9x190, 10x180
+**RDL (no belt)** 9x190, 10x180, 13x160 
 
 **SSB Good Mornings (belt)** 10x95
 
