@@ -27,14 +27,14 @@
 ## Bench/Dips
 
 **Benchpress (close-grip, touch-n-go)
-6x110; 8x105**
+6x110; 7x107.5; 8x105**
 
 **Incline Bench (low, mid-grip, touch-n-go)**
 6x105
 7x100
 
 **Weighted Dips**
-7x50; 9+1x47.5; 10x45
+8x51; 9+1x47.5; 10x45
 
 ## OHP / Shoulder Presses
 
@@ -47,12 +47,12 @@
 
 **Pull ups (wide-grip, 80cm)** 4x30.5; 6x29; 7x28; 8x23; 10x20
 
-**Cable pullover 1-arm** 10x21.5
+**Cable pullover 1-arm** 10x22
 
 ## Rows
 All kind of rows
 
-**DB rows** 60-70kg db for reps
+**DB rows** 70kg db for reps
 
 ## Curls
 
@@ -71,7 +71,7 @@ All kind of rows
 7x61
 
 **Rolling DB extensions (decline, paused)**
-8x25.5
+6x26.5; 8x25.5
 
 ## Abs
 
